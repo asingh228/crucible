@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/logo.png" width="450" alt="Crucible Logo" />
+</p>
+
 # ⚖️ Crucible: An Advanced LLM Quality & Calibration Harness
 
 [![Version](https://img.shields.io/badge/version-2.0.0-blue.svg?style=for-the-badge&color=8B5CF6)](./SKILL.md)
@@ -112,6 +116,18 @@ This release elevates Crucible from a review-only critique step to a complete, s
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🖼️ How to set as GitHub Social Preview
+
+To ensure the custom Crucible logo shows up as an Open Graph preview when you share this link on LinkedIn, Twitter, Slack, etc., follow these steps on GitHub:
+
+1. Go to the main page of your repository: [asingh228/crucible](https://github.com/asingh228/crucible).
+2. Click on **Settings** (with the gear icon) in the repository menu bar.
+3. In the **General** settings tab (default), scroll down to the **Social preview** section.
+4. Click **Edit** -> **Upload an image...** and select the logo file at `media/logo.png` from this repository.
+5. GitHub will process and save the preview image. It will now automatically unfurl when shared!
 
 ---
 
